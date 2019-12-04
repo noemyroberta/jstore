@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+    <tb_procedimentos
+        pro_descricao="1"
+        pro_valor="valor1"
+        pro_equipamentos="equipamentos1"
+    />
+    
+    <tb_procedimentos
+        pro_descricao="2"
+        pro_valor="valor2"
+        pro_equipamentos="equipamentos2"
+    />
+</dataset>

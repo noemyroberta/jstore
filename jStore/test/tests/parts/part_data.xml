@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+    <tb_pecas 
+        pec_id="1"
+        pec_descricao="desc1"
+        pec_numero_serie="numero_serie1"
+        pec_fabricante="fabricante1"
+        pec_geracao="geracao1"
+        pec_preco="preco1" 
+        pec_estoque="estoque1" />
+    
+    <tb_pecas 
+        pec_id="2"
+        pec_descricao="desc2"
+        pec_numero_serie="numero_serie2"
+        pec_fabricante="fabricante2"
+        pec_geracao="geracao2"
+        pec_preco="preco2" 
+        pec_estoque="estoque2" />
+    
+    <tb_pecas 
+        pec_id="3"
+        pec_descricao="desc3"
+        pec_numero_serie="numero_serie3"
+        pec_fabricante="fabricante3"
+        pec_geracao="geracao3"
+        pec_preco="preco3" 
+        pec_estoque="estoque3" />
+</dataset>
